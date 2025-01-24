@@ -24,6 +24,6 @@
 
 </p>
 
-![Rajana Kavinda Samarakoon](https://your-gif-link-here)
+![Rajana Kavinda Samarakoon](https://github.com/RajanaKavinda/RajanaKavinda/blob/main/bottom_header.svg)
 <br>
 </p>
