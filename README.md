@@ -11,18 +11,55 @@
 <br>
  <p align="center">
    <a href="https://www.linkedin.com/in/rajana-kavinda/"><img src="https://img.shields.io/badge/-Rajana%20Kavinda-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:rajana.k.samarakoon@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 <br>
 <br>
 
 ---
 
-### Technical Skills
+### 🌟 Technical Skills
 
-- **Languages:** English (Professional Proficiency), Sinhala (Native Proficiency)  
-- **Programming Languages:** Python, C++, Java, JavaScript 
-- **Frameworks & Libraries:** ROS2, ReactJS, Spring Boot, OpenCV, Flutter
-- **Databases:** MySQL, Firebase Firestore
-- **Software & Tools:** Git, Altium, SolidWorks, Matlab, Arduino, Webots, LaTeX, LTSpice, Quartus Prime  
+#### 🛠️ Languages  
+<p align="left">
+<img src="https://img.shields.io/badge/English-Professional_Proficiency-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Sinhala-Native_Proficiency-orange?style=flat-square" />
+</p>
+
+#### 💻 Programming Languages  
+<p align="left">
+<img src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript" />
+</p>
+
+#### 🔧 Frameworks & Libraries  
+<p align="left">
+<img src="https://img.shields.io/badge/ROS2-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/ReactJS-blue?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Spring_Boot-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-lightgrey?style=flat-square&logo=opencv" />
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter" />
+</p>
+
+#### 🗄️ Databases  
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-orange?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/Firebase_Firestore-brightgreen?style=flat-square&logo=firebase" />
+</p>
+
+#### 🛠️ Software & Tools  
+<p align="left">
+<img src="https://img.shields.io/badge/Git-lightgrey?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/Altium-lightgrey?style=flat-square&logo=altium" />
+<img src="https://img.shields.io/badge/SolidWorks-orange?style=flat-square&logo=solidworks" />
+<img src="https://img.shields.io/badge/MATLAB-red?style=flat-square&logo=matlab" />
+<img src="https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino" />
+<img src="https://img.shields.io/badge/Webots-green?style=flat-square" />
+<img src="https://img.shields.io/badge/LaTeX-blue?style=flat-square&logo=latex" />
+<img src="https://img.shields.io/badge/LTSpice-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Quartus_Prime-lightgrey?style=flat-square&logo=intel" />
+</p>
 
 ---
 
