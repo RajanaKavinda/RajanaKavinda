@@ -60,11 +60,12 @@
 <img src="https://img.shields.io/badge/Quartus_Prime-lightgrey?style=flat-square&logo=intel" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RajanaKavinda&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<h1 align="left">📊 GitHub Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajanaKavinda&theme=dracula&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
