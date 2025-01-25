@@ -60,7 +60,11 @@
 <img src="https://img.shields.io/badge/Quartus_Prime-lightgrey?style=flat-square&logo=intel" />
 </p>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RajanaKavinda&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajanaKavinda&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
